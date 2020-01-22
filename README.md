@@ -1,4 +1,4 @@
-# :computer: Aplicação Web em ReactJS
+# :computer: Aplicação Web em ReactJS para trabalhar com Leaflet
 
 ![Cena 01](image-01.png)
 
